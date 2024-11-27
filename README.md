@@ -34,7 +34,6 @@ I'm a passionate Fullstack Developer with a strong focus on creating dynamic and
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
@@ -57,10 +56,13 @@ I'm a passionate Fullstack Developer with a strong focus on creating dynamic and
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
 
 ### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
