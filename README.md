@@ -12,8 +12,8 @@ I'm a passionate Fullstack Developer specializing in modern web and mobile devel
 
 - 📱 **Mobile Development**: React Native for cross-platform applications
 - 🌐 **Web Development**: React.js, Next.js, TypeScript
-- 🔥 **Backend**: Firebase, Node.js, Express
-- 🛠️ **Database**: MongoDB, MySQL, PostgreSQL
+- 🔥 **Backend**: Node.js, Express
+- 🛠️ **Database**: MSSQL, MySQL, SQLite, Firebase
 
 Currently working on:
 - 📊 e-Invoice System Portal
