@@ -8,7 +8,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Fullstack Developer with a strong focus on creating dynamic and high-performance web and mobile applications. My expertise lies in utilizing modern technologies such as React Native, React, Next.js, and Firebase to build seamless, user-centric solutions. With React Native, I've crafted robust mobile applications that provide native-like experiences across both iOS and Android platforms. My proficiency in React allows me to develop interactive and efficient single-page applications that deliver exceptional user experiences. Leveraging Next.js, I have built scalable and optimized server-side rendered applications that meet the demands of today's fast-paced digital environment. Firebase is my go-to for backend services, providing real-time databases, authentication, and cloud functions that ensure the applications I build are both secure and highly functional. My approach to development emphasizes clean code, scalability, and maintainability, ensuring that every project I undertake is not only built to last but also easy to enhance and evolve. I am continuously driven by the excitement of new challenges and the opportunity to create innovative solutions that make a difference. I thrive in collaborative environments, always eager to learn from others and share my knowledge. When I'm not coding, you'll find me exploring the latest industry trends, contributing to open-source projects, or engaging with the developer community.
+I'm a passionate Fullstack Developer with a strong focus on creating dynamic and high-performance web and mobile applications. My expertise lies in utilizing modern technologies such as React Native, React, Next.js, and Firebase to build seamless, user-centric solutions. 
+
+With React Native, I've crafted robust mobile applications that provide native-like experiences across both iOS and Android platforms. My proficiency in React allows me to develop interactive and efficient single-page applications that deliver exceptional user experiences. 
+
+Leveraging Next.js, I have built scalable and optimized server-side rendered applications that meet the demands of today's fast-paced digital environment. 
+
+Firebase is my go-to for backend services, providing real-time databases, authentication, and cloud functions that ensure the applications I build are both secure and highly functional. My approach to development emphasizes clean code, scalability, and maintainability, ensuring that every project I undertake is not only built to last but also easy to enhance and evolve. 
+
+I am continuously driven by the excitement of new challenges and the opportunity to create innovative solutions that make a difference. I thrive in collaborative environments, always eager to learn from others and share my knowledge. When I'm not coding, you'll find me exploring the latest industry trends, contributing to open-source projects, or engaging with the developer community.
 
 - 🔭 I'm currently working on **e-Invoice System Portal | Field Services Management Portal with Mobile Integration**
 - 🌱 I'm currently learning **NextJS 15**
