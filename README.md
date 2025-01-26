@@ -18,7 +18,7 @@ Firebase is my go-to for backend services, providing real-time databases, authen
 
 I am continuously driven by the excitement of new challenges and the opportunity to create innovative solutions that make a difference. I thrive in collaborative environments, always eager to learn from others and share my knowledge. When I'm not coding, you'll find me exploring the latest industry trends, contributing to open-source projects, or engaging with the developer community.
 
-- 🔭 I'm currently working on **e-Invoice System Portal | Field Services Management Portal with Mobile Integration**
+- 🔭 I'm currently working 2 projects **e-Invoice Middleware System Web Portal & (FSM) Field Services Management System Web Portal with Mobile App Integration**
 - 🌱 I'm currently learning **NextJS 15**
 - 💬 Ask me about **React, React Native, NextJS, Firebase**
 - 📫 How to reach me **gmjsilmaro03@gmail.com**
