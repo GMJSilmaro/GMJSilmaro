@@ -88,5 +88,6 @@ I am continuously driven by the excitement of new challenges and the opportunity
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat!
+- Check out my Web CV: https://gmjsilmaro.github.io/portfolio/
 - 📧 Email: gmjsilmaro03@gmail.com
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/gmjsilmaro)
